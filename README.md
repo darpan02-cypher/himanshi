@@ -2,7 +2,7 @@
 [![Profile Views](https://img.shields.io/github/followers/darpan02-cypher?label=Followers&style=flat-square)](https://github.com/darpan02-cypher)
 
 ## About
-👋 Hi there! I'm Himanshi Shrivas, a passionate developer who loves to build and collaborate on innovative projects. I joined the GitHub community in January 2025 and have been actively contributing since then.
+👋 Hi there! I'm Himanshi Shrivas, a passionate developer who loves to build and collaborate on innovative projects.
 
 ## Stats & Activity
 - 📊 **Public Repositories:** 22
